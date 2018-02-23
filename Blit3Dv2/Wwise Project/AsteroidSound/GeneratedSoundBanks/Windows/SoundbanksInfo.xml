@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="120">
+	<RootPaths>
+		<ProjectRoot>D:\Programing\Asteroids\Blit3Dv2\Wwise Project\AsteroidSound\</ProjectRoot>
+		<SourceFilesRoot>D:\Programing\Asteroids\Blit3Dv2\Wwise Project\AsteroidSound\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>D:\Programing\Asteroids\Blit3Dv2\Wwise Project\AsteroidSound\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>D:\Programing\Asteroids\Blit3Dv2\Wwise Project\AsteroidSound\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles>
+		<File Id="950885297" Language="SFX">
+			<ShortName>SpaceTrip.wav</ShortName>
+			<Path>SFX\SpaceTrip_4B8CC0C5.wem</Path>
+		</File>
+	</StreamedFiles>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="2880737896" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\MainBank</ObjectPath>
+			<ShortName>MainBank</ShortName>
+			<Path>MainBank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1038839729" Name="BGMusic" ObjectPath="\Events\Default Work Unit\BGMusic"/>
+				<Event Id="779278001" Name="Death" ObjectPath="\Events\Default Work Unit\Death"/>
+				<Event Id="164866881" Name="EngineStart" ObjectPath="\Events\Default Work Unit\EngineStart"/>
+				<Event Id="2079244539" Name="EngineStop" ObjectPath="\Events\Default Work Unit\EngineStop"/>
+				<Event Id="13776098" Name="Explosion" ObjectPath="\Events\Default Work Unit\Explosion"/>
+				<Event Id="1079224833" Name="RockExplode" ObjectPath="\Events\Default Work Unit\RockExplode"/>
+				<Event Id="1161967626" Name="Shield" ObjectPath="\Events\Default Work Unit\Shield"/>
+				<Event Id="3038207054" Name="Shoot" ObjectPath="\Events\Default Work Unit\Shoot"/>
+			</IncludedEvents>
+			<ReferencedStreamedFiles>
+				<File Id="950885297"/>
+			</ReferencedStreamedFiles>
+			<IncludedMemoryFiles>
+				<File Id="47076913" Language="SFX">
+					<ShortName>engine sound.wav</ShortName>
+					<Path>SFX\engine sound_C3EFB258.wem</Path>
+				</File>
+				<File Id="89995124" Language="SFX">
+					<ShortName>Explosion62.wav</ShortName>
+					<Path>SFX\Explosion62_9E69E797.wem</Path>
+				</File>
+				<File Id="460763128" Language="SFX">
+					<ShortName>Shield.wav</ShortName>
+					<Path>SFX\Shield_9E69E797.wem</Path>
+				</File>
+				<File Id="623258938" Language="SFX">
+					<ShortName>Media\Laser_Shoot5.wav</ShortName>
+					<Path>SFX\Media\Laser_Shoot5_9E69E797.wem</Path>
+				</File>
+				<File Id="696063833" Language="SFX">
+					<ShortName>engine sound.wav</ShortName>
+					<Path>SFX\engine sound_8E5D4E92.wem</Path>
+				</File>
+				<File Id="842185864" Language="SFX">
+					<ShortName>hit.wav</ShortName>
+					<Path>SFX\hit_9E69E797.wem</Path>
+				</File>
+				<File Id="936324147" Language="SFX">
+					<ShortName>engine sound.wav</ShortName>
+					<Path>SFX\engine sound_B9473FB3.wem</Path>
+				</File>
+				<File Id="969275972" Language="SFX">
+					<ShortName>Death.wav</ShortName>
+					<Path>SFX\Death_9E69E797.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

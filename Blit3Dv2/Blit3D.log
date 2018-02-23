@@ -1,0 +1,8 @@
+[2017-12-15 11:09:30][Info]	Context reports FSAA is available with 8samples
+[2017-12-15 11:09:30][Info]	Requesting FSAA with 8samples
+[2017-12-15 11:09:30][Info]	1 monitor detected.
+[2017-12-15 11:09:32][Info]	Renderer: GeForce GTX 960M/PCIe/SSE2
+[2017-12-15 11:09:32][Info]	OpenGL version supported: 4.5.0 NVIDIA 385.41
+[2017-12-15 11:09:32][Info]	Creating TextureManager with 31 maximum bound textures
+[2017-12-15 11:09:40][Info]	Terminated Blit3D
+[2017-12-15 11:09:40][Info]	TextureManager destroyed

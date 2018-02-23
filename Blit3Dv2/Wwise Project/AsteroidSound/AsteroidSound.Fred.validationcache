@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="75">
+	<ValidationCacheItem File="D:\Programing\Asteroids\Blit3Dv2\Wwise Project\AsteroidSound\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="35115" DateHigh="30582777"/>
+	<ValidationCacheItem File="D:\Programing\Asteroids\Blit3Dv2\Wwise Project\AsteroidSound\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="2967672659" DateHigh="30579938"/>
+	<ValidationCacheItem File="D:\Programing\Asteroids\Blit3Dv2\Wwise Project\AsteroidSound\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="2968790974" DateHigh="30579938"/>
+	<ValidationCacheItem File="D:\Programing\Asteroids\Blit3Dv2\Wwise Project\AsteroidSound\AsteroidSound.Fred.wsettings" DateLow="7748919" DateHigh="30582777"/>
+	<ValidationCacheItem File="D:\Programing\Asteroids\Blit3Dv2\Wwise Project\AsteroidSound\AsteroidSound.wproj" DateLow="757964202" DateHigh="30581367"/>
+	<ValidationCacheItem File="D:\Programing\Asteroids\Blit3Dv2\Wwise Project\AsteroidSound\Attenuations\Default Work Unit.wwu" DateLow="761306483" DateHigh="30581367"/>
+	<ValidationCacheItem File="D:\Programing\Asteroids\Blit3Dv2\Wwise Project\AsteroidSound\Audio Devices\Default Work Unit.wwu" DateLow="761158086" DateHigh="30581367"/>
+	<ValidationCacheItem File="D:\Programing\Asteroids\Blit3Dv2\Wwise Project\AsteroidSound\Control Surface Sessions\Default Work Unit.wwu" DateLow="761082886" DateHigh="30581367"/>
+	<ValidationCacheItem File="D:\Programing\Asteroids\Blit3Dv2\Wwise Project\AsteroidSound\Conversion Settings\Default Work Unit.wwu" DateLow="761037276" DateHigh="30581367"/>
+	<ValidationCacheItem File="D:\Programing\Asteroids\Blit3Dv2\Wwise Project\AsteroidSound\Conversion Settings\Factory Conversion Settings.wwu" DateLow="2967602484" DateHigh="30579938"/>
+	<ValidationCacheItem File="D:\Programing\Asteroids\Blit3Dv2\Wwise Project\AsteroidSound\Dynamic Dialogue\Default Work Unit.wwu" DateLow="761344670" DateHigh="30581367"/>
+	<ValidationCacheItem File="D:\Programing\Asteroids\Blit3Dv2\Wwise Project\AsteroidSound\Effects\Default Work Unit.wwu" DateLow="760952053" DateHigh="30581367"/>
+	<ValidationCacheItem File="D:\Programing\Asteroids\Blit3Dv2\Wwise Project\AsteroidSound\Effects\Factory Auro Headphone.wwu" DateLow="3483353047" DateHigh="30579938"/>
+	<ValidationCacheItem File="D:\Programing\Asteroids\Blit3Dv2\Wwise Project\AsteroidSound\Effects\Factory Effects.wwu" DateLow="2968720772" DateHigh="30579938"/>
+	<ValidationCacheItem File="D:\Programing\Asteroids\Blit3Dv2\Wwise Project\AsteroidSound\Effects\Factory iZotope Box Modeler.wwu" DateLow="3142555276" DateHigh="30579938"/>
+	<ValidationCacheItem File="D:\Programing\Asteroids\Blit3Dv2\Wwise Project\AsteroidSound\Effects\Factory iZotope Delay.wwu" DateLow="3141331993" DateHigh="30579938"/>
+	<ValidationCacheItem File="D:\Programing\Asteroids\Blit3Dv2\Wwise Project\AsteroidSound\Effects\Factory iZotope Dynamics.wwu" DateLow="3144668411" DateHigh="30579938"/>
+	<ValidationCacheItem File="D:\Programing\Asteroids\Blit3Dv2\Wwise Project\AsteroidSound\Effects\Factory iZotope Filters.wwu" DateLow="3141763131" DateHigh="30579938"/>
+	<ValidationCacheItem File="D:\Programing\Asteroids\Blit3Dv2\Wwise Project\AsteroidSound\Effects\Factory iZotope Hybrid Reverb Effects.wwu" DateLow="3146509041" DateHigh="30579938"/>
+	<ValidationCacheItem File="D:\Programing\Asteroids\Blit3Dv2\Wwise Project\AsteroidSound\Effects\Factory iZotope Multiband Distortion.wwu" DateLow="3144187239" DateHigh="30579938"/>
+	<ValidationCacheItem File="D:\Programing\Asteroids\Blit3Dv2\Wwise Project\AsteroidSound\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="3141231714" DateHigh="30579938"/>
+	<ValidationCacheItem File="D:\Programing\Asteroids\Blit3Dv2\Wwise Project\AsteroidSound\Effects\Factory McDSP Effects.wwu" DateLow="840226298" DateHigh="30579939"/>
+	<ValidationCacheItem File="D:\Programing\Asteroids\Blit3Dv2\Wwise Project\AsteroidSound\Events\Default Work Unit.wwu" DateLow="129267" DateHigh="30582777"/>
+	<ValidationCacheItem File="D:\Programing\Asteroids\Blit3Dv2\Wwise Project\AsteroidSound\Game Parameters\Default Work Unit.wwu" DateLow="760906937" DateHigh="30581367"/>
+	<ValidationCacheItem File="D:\Programing\Asteroids\Blit3Dv2\Wwise Project\AsteroidSound\Game Parameters\Factory SoundSeed Air Game Syncs.wwu" DateLow="2968650589" DateHigh="30579938"/>
+	<ValidationCacheItem File="D:\Programing\Asteroids\Blit3Dv2\Wwise Project\AsteroidSound\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="761233333" DateHigh="30581367"/>
+	<ValidationCacheItem File="D:\Programing\Asteroids\Blit3Dv2\Wwise Project\AsteroidSound\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="760819214" DateHigh="30581367"/>
+	<ValidationCacheItem File="D:\Programing\Asteroids\Blit3Dv2\Wwise Project\AsteroidSound\Mixing Sessions\Default Work Unit.wwu" DateLow="761379791" DateHigh="30581367"/>
+	<ValidationCacheItem File="D:\Programing\Asteroids\Blit3Dv2\Wwise Project\AsteroidSound\Modulators\Default Work Unit.wwu" DateLow="761122977" DateHigh="30581367"/>
+	<ValidationCacheItem File="D:\Programing\Asteroids\Blit3Dv2\Wwise Project\AsteroidSound\Presets\Default Work Unit.wwu" DateLow="760992448" DateHigh="30581367"/>
+	<ValidationCacheItem File="D:\Programing\Asteroids\Blit3Dv2\Wwise Project\AsteroidSound\Queries\Default Work Unit.wwu" DateLow="761198201" DateHigh="30581367"/>
+	<ValidationCacheItem File="D:\Programing\Asteroids\Blit3Dv2\Wwise Project\AsteroidSound\Queries\Factory Queries.wwu" DateLow="2967492179" DateHigh="30579938"/>
+	<ValidationCacheItem File="D:\Programing\Asteroids\Blit3Dv2\Wwise Project\AsteroidSound\SoundBanks\Default Work Unit.wwu" DateLow="224500" DateHigh="30582777"/>
+	<ValidationCacheItem File="D:\Programing\Asteroids\Blit3Dv2\Wwise Project\AsteroidSound\Soundcaster Sessions\Default Work Unit.wwu" DateLow="761417835" DateHigh="30581367"/>
+	<ValidationCacheItem File="D:\Programing\Asteroids\Blit3Dv2\Wwise Project\AsteroidSound\States\Default Work Unit.wwu" DateLow="760688871" DateHigh="30581367"/>
+	<ValidationCacheItem File="D:\Programing\Asteroids\Blit3Dv2\Wwise Project\AsteroidSound\Switches\Default Work Unit.wwu" DateLow="760779087" DateHigh="30581367"/>
+	<ValidationCacheItem File="D:\Programing\Asteroids\Blit3Dv2\Wwise Project\AsteroidSound\Triggers\Default Work Unit.wwu" DateLow="761271591" DateHigh="30581367"/>
+</ValidationCache>

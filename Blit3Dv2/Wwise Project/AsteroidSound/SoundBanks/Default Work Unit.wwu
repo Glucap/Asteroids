@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{9E982BC5-3076-4318-806A-62F9EA937786}" SchemaVersion="75">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{9E982BC5-3076-4318-806A-62F9EA937786}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="MainBank" ID="{A0BFA37A-F806-4EBD-8B8A-2F2102E54F2B}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Shoot" ID="{BC8F4600-2B1F-41E6-8E21-91FD3EFD956E}" WorkUnitID="{327FE3E7-FCF8-4EB4-A764-EEF799AA8C80}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Shield" ID="{82AD3935-9FE6-4212-91C2-E7D663DE3CB7}" WorkUnitID="{327FE3E7-FCF8-4EB4-A764-EEF799AA8C80}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="EngineStop" ID="{313BF0B8-B537-4284-A9C9-7316A1192BDE}" WorkUnitID="{327FE3E7-FCF8-4EB4-A764-EEF799AA8C80}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="EngineStart" ID="{656025AC-F727-4847-A69E-EDB1A7935AC8}" WorkUnitID="{327FE3E7-FCF8-4EB4-A764-EEF799AA8C80}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="RockExplode" ID="{0911D014-D879-4887-B847-562D89319611}" WorkUnitID="{327FE3E7-FCF8-4EB4-A764-EEF799AA8C80}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="BGMusic" ID="{59E11024-22DF-4934-A0B2-C407A2BCDBB7}" WorkUnitID="{327FE3E7-FCF8-4EB4-A764-EEF799AA8C80}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Death" ID="{F1C30147-7E3A-4D3A-993C-606CA573951F}" WorkUnitID="{327FE3E7-FCF8-4EB4-A764-EEF799AA8C80}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Explosion" ID="{1A75D96E-528C-4DF2-AD0A-F992A5CFE01B}" WorkUnitID="{327FE3E7-FCF8-4EB4-A764-EEF799AA8C80}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

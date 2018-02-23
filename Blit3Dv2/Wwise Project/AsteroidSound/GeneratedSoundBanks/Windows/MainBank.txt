@@ -1,0 +1,23 @@
+Event	ID	Name			Wwise Object Path	Notes
+	13776098	Explosion			\Default Work Unit\Explosion	
+	164866881	EngineStart			\Default Work Unit\EngineStart	
+	779278001	Death			\Default Work Unit\Death	
+	1038839729	BGMusic			\Default Work Unit\BGMusic	
+	1079224833	RockExplode			\Default Work Unit\RockExplode	
+	1161967626	Shield			\Default Work Unit\Shield	
+	2079244539	EngineStop			\Default Work Unit\EngineStop	
+	3038207054	Shoot			\Default Work Unit\Shoot	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	47076913	engineStart	D:\Programing\Asteroids\Blit3Dv2\Wwise Project\AsteroidSound\.cache\Windows\SFX\engine sound_C3EFB258.wem		\Actor-Mixer Hierarchy\Default Work Unit\Media\engineStart		91268
+	89995124	Explosion62	D:\Programing\Asteroids\Blit3Dv2\Wwise Project\AsteroidSound\.cache\Windows\SFX\Explosion62_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Media\Explosion62		34300
+	460763128	Shield	D:\Programing\Asteroids\Blit3Dv2\Wwise Project\AsteroidSound\.cache\Windows\SFX\Shield_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Media\Shield		43628
+	623258938	Laser_Shoot5	D:\Programing\Asteroids\Blit3Dv2\Wwise Project\AsteroidSound\.cache\Windows\SFX\Media\Laser_Shoot5_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Media\Laser_Shoot5		21962
+	696063833	engineStop	D:\Programing\Asteroids\Blit3Dv2\Wwise Project\AsteroidSound\.cache\Windows\SFX\engine sound_8E5D4E92.wem		\Actor-Mixer Hierarchy\Default Work Unit\Media\engineStop		136868
+	842185864	Explosion	D:\Programing\Asteroids\Blit3Dv2\Wwise Project\AsteroidSound\.cache\Windows\SFX\hit_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Media\Explosion		15010
+	936324147	engineRun	D:\Programing\Asteroids\Blit3Dv2\Wwise Project\AsteroidSound\.cache\Windows\SFX\engine sound_B9473FB3.wem		\Actor-Mixer Hierarchy\Default Work Unit\Media\engineRun		458616
+	969275972	Death	D:\Programing\Asteroids\Blit3Dv2\Wwise Project\AsteroidSound\.cache\Windows\SFX\Death_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Media\Death		242810
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	950885297	SpaceTrip	D:\Programing\Asteroids\Blit3Dv2\Wwise Project\AsteroidSound\.cache\Windows\SFX\SpaceTrip_4B8CC0C5.wem	950885297.wem	\Actor-Mixer Hierarchy\Default Work Unit\Media\SpaceTrip	
+
